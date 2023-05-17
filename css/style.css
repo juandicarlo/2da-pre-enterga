@@ -1,0 +1,15 @@
+body{
+    color: #eb7c15;
+}
+.navbar .collapse.navbar-collapse{
+    flex-grow: inherit;
+}
+.navbar a{
+    color: #eb7c15;
+}
+.navbar .navbar-toggler{
+    border-color: #eb7c15;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}
